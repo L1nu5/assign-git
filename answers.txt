@@ -13,4 +13,4 @@
 - Different branches provide multiple teams on the same project to work independently. It also provides isolation.
 
 4. In a project how many remote Git repositories do you usually have?
-- A project can have any number of remote repositories but only one 'origin' remote is allowed (a default remote that git creates while cloning a repository.)
+- A project can have any number of remote repositories.
