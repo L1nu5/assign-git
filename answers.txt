@@ -13,4 +13,4 @@
 - Different branches provide multiple teams on the same project to work independently. It also provides isolation.
 
 4. In a project how many remote Git repositories do you usually have?
-- A project has only one remote repository.
+- A project can have any number of remote repositories.
